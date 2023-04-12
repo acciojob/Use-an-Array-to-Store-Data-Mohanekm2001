@@ -1,3 +1,3 @@
-// Add your JS code here
-let yourArray = [1, "two", true, null, 5.5];
-console.log(yourArray);
+let yourArray = ['hello', 42, true, 'world', false];
+console.log(yourArray.length);
+// logs 5
